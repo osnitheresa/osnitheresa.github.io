@@ -22,32 +22,32 @@ timezone: Asia/Kolkata
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Sukanya M                    # the main title
+title: Osni Theresa V X                   # the main title
 
-tagline: Cloud, DevOps, Site Reliability Engineer   # it will display as the sub-title
+tagline: Cloud, DevOps, Devops Engineer   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Cloud, DevOps, Site Reliability Engineer
+  Cloud, DevOps, Devops Engineer
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://sukanya5960.github.io'
+url: 'https://osnitheresa.github.io'
 
 github:
-  username: sukanya5960             # change to your github username
+  username: osnitheresa            # change to your github username
 
 twitter:
-  username: sukanya5960            # change to your twitter username
+  username: osnitheresa         # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Sukanya M
-  email: sukanya5960@gmail.com            # change to your email address
+  name: Osni Theresa V X
+  email: osnitheresa@gmail.com            # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/sukanya5960      # change to your twitter homepage
-    - https://github.com/sukanya5960       # change to your github homepage
-    - https://www.linkedin.com/in/sukanya5960
+    - https://twitter.com/osnitheresa      # change to your twitter homepage
+    - https://github.com/osnitheresa       # change to your github homepage
+    - https://www.linkedin.com/in/osnitheresa
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
@@ -82,7 +82,7 @@ theme_mode:   light # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://raw.githubusercontent.com/sukanya5960/sukanya5960.github.io/master/assets/img/favicons/sukanya.jpeg
+avatar: https://raw.githubusercontent.com/sukanya5960/sukanya5960.github.io/master/assets/img/favicons/osni.jpeg
 
 
 # boolean type, the global switch for ToC in posts.
