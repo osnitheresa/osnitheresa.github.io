@@ -36,7 +36,7 @@ github:
   username: osnitheresa            # change to your github username
 
 twitter:
-  username: osnitheresa         # change to your twitter username
+  username: v_osni                # change to your twitter username
 
 social:
   # Change to your full name.
@@ -45,7 +45,7 @@ social:
   email: osnitheresa@gmail.com            # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/osnitheresa      # change to your twitter homepage
+    - https://twitter.com/v_osni      # change to your twitter homepage
     - https://github.com/osnitheresa       # change to your github homepage
     - https://www.linkedin.com/in/osnitheresa
 
@@ -82,7 +82,7 @@ theme_mode:   light # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://raw.githubusercontent.com/sukanya5960/sukanya5960.github.io/master/assets/img/favicons/osni.jpeg
+avatar: https://raw.githubusercontent.com/osnitheresa/osnitheresa.github.io/master/assets/img/favicons/osni.jpeg
 
 
 # boolean type, the global switch for ToC in posts.
