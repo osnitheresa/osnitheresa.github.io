@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bash script to create a cluster with multisubnet in EKS
+title: Bash script to create an EKS cluster with multisubnet
 author: Osni Theresa V X
 date: 2024-07-14 11:00:00 +0800
 categories: [EKS]
